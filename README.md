@@ -9,7 +9,7 @@ Institute: Sir MVIT
 Tech stack:  
 C language  
 Python  
-Git basics  
+Git  
 
 My LinkedIn profile:  
 www.linkedin.com/in/vikram-rawal-6b3601303 
